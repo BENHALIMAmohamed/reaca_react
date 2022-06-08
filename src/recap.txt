@@ -1,0 +1,48 @@
+React ??
+javaScript library used to create single page applications
+
+SPA?? 
+a single html page, react virtual DOM affects the real DOM
+
+features of react js:
+jsx
+component based
+one way data flow : parent to child
+simplicity/performance
+
+
+
+
+jsx : JS extension = html+js
+components: bulding blocks of the application
+
+
+
+
+
+class based components 
+function based components
+
+
+props: properties : immutable data passed from parent to child 
+components
+read only
+
+
+state ==> class based component
+
+life cycle methods:
+-componentDidMount() : at first render
+-componentDidUpdate() : on every state update
+-componentWillUnmount() : on leaving DOM
+
+==> function based  component ==> hooks
+
+hooks ?? functions ?? new features for function based components
+useState/useEffect/useParams/useLocation/useSelector/
+custom hooks :"use"
+
+useState : getter=state/ setter=method that can modify the state
+
+
+React Router:  React library used for routing
